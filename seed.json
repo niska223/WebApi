@@ -127,6 +127,7 @@
       "vehicle_id": 1,
       "latitude": 6.9271,
       "longitude": 79.8612,
+      "speed": 45,
       "timestamp": "2026-06-15T08:00:00Z"
     },
     {
@@ -134,6 +135,7 @@
       "vehicle_id": 1,
       "latitude": 6.9285,
       "longitude": 79.8620,
+      "speed": 50,
       "timestamp": "2026-06-16T08:00:00Z"
     },
     {
@@ -141,6 +143,7 @@
       "vehicle_id": 1,
       "latitude": 6.9290,
       "longitude": 79.8635,
+      "speed": 38,
       "timestamp": "2026-06-17T08:00:00Z"
     },
     {
@@ -148,6 +151,7 @@
       "vehicle_id": 1,
       "latitude": 6.9301,
       "longitude": 79.8642,
+      "speed": 60,
       "timestamp": "2026-06-18T08:00:00Z"
     },
     {
@@ -155,6 +159,7 @@
       "vehicle_id": 1,
       "latitude": 6.9315,
       "longitude": 79.8650,
+      "speed": 55,
       "timestamp": "2026-06-19T08:00:00Z"
     },
     {
@@ -162,6 +167,7 @@
       "vehicle_id": 1,
       "latitude": 6.9320,
       "longitude": 79.8662,
+      "speed": 42,
       "timestamp": "2026-06-20T08:00:00Z"
     },
     {
@@ -169,6 +175,7 @@
       "vehicle_id": 1,
       "latitude": 6.9330,
       "longitude": 79.8670,
+      "speed": 48,
       "timestamp": "2026-06-21T08:00:00Z"
     }
   ]
